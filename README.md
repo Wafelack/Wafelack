@@ -8,6 +8,4 @@ I love [Vim](https://www.vim.org), i use [Manjaro](https://manjaro.org/) with KD
 
 ## My Links 
 
--[YouTube](https://www.youtube.com/channel/UC1kjqzM5VTcCK9I9fTCbupg)
--[Twitch](https://twitch.tv/Wafelack)
 -[Discord Server](https://discord.gg/5VgZgRe)
