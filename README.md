@@ -1,10 +1,10 @@
 # Wafelack
 
-Hey ! I'm a french student that loves [C](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628) & [Python](https://www.python.org/). I'm currently learning [Rust](https://www.rust-lang.org/) !
+Hey ! I'm a french student that loves [C](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628) & has fun with computers. 
 
 I've been programming since 2 years.
 
-I love [Vim](https://www.vim.org), i use [Manjaro](https://manjaro.org/) with KDE.
+I use [Vim](https://www.vim.org) & Windows (Because of a compatibility problem, but normally i use [Manjaro](https://manjaro.org/) with KDE.)
 
 ## My Links 
 
