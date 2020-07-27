@@ -1,6 +1,6 @@
 # Wafelack
 
-Hey ! I'm a french student that loves [C](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628) & has fun with computers. 
+Hey ! I'm a french student that loves [C](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628) and is learning [RustLang](https://rustlang.org)& has fun with computers. 
 
 I've been programming since 2 years.
 
