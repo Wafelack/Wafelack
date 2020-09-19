@@ -1,7 +1,7 @@
 # Wafelack
 
 Hi 🖖!
-I'm Wafelack, a <b>french</b> student currently in high school. I looooove programming various things. I code in <b>Rust</b>, <b>C</b> and <b>Python</b> (But i prefer Rust 😜).
+I'm Wafelack, a <b>french</b> developer and student currently in high school. I looooove programming various things. I code in <b>Rust</b>, <b>C</b> and <b>Python</b> (But i prefer Rust 😜).
 
 <br>
 
@@ -16,6 +16,7 @@ I'm Wafelack, a <b>french</b> student currently in high school. I looooove progr
 <code><a href="https://git-scm.com/"><img height=20 alt="Git" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png"/></a></code>
 <code><a href="https://www.jetbrains.com/clion/"><img height=20 alt="Clion" src="https://cdn.discordapp.com/attachments/739797589687402519/744692286427889734/clion.png"/></a></code>
 <code><a href="https://code.visualstudio.com/"><img height=20 alt="VSCode" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"/></a></code>
+<code><a href="https://wmanage.github.io/"><img height=20 alt="WNG" src="https://github.com/Wmanage/wng/blob/master/assets/wng.png"/></a></code>
 
 <br>
 
@@ -31,11 +32,11 @@ ___
 <i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github</i>
 
 <p align="center">
-<a href="https://github.com/Wafelack/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wafelack&show_icons=true&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wafelack&show_icons=true&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111&include_all_commits=true" />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Wafelack/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafelack&layout=compact&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111&hide=html,css"/>
 </a>
 </p>
