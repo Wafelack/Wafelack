@@ -51,19 +51,19 @@ ___
 <p align="center">
 <a href="https://github.com/wmanage/wng">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wafelack&repo=wanager&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=wanager&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>    
 <a href="https://github.com/wafelack/rshasher">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wafelack&repo=rshasher&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=rshasher&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
 <a href="https://github.com/wafelack/wshell">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wafelack&repo=wshell&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=wshell&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
 <a href="https://github.com/wafelack/openbot">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wafelack&repo=openbot&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=openbot&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
   </p>
 
