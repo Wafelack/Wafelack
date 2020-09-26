@@ -33,7 +33,7 @@ ___
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wafelack&show_icons=true&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wafelack&show_icons=true&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
