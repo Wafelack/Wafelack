@@ -1,7 +1,7 @@
 # Wafelack
 
 Hi 🖖!
-I'm Wafelack, a <b>french</b> developer and student currently in high school. I looooove programming various things. I code in <b>Rust</b>, <b>C</b> and <b>Python</b> (But i prefer Rust 😜).
+I'm Wafelack, a <b>french</b> developer and student currently in high school. I looooove programming various things. My main language is <b>Rust</b> but i can code in several languages if necessary.
 
 <br>
 
