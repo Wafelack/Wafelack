@@ -22,10 +22,12 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
 
 <p align="center">
 <img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/wafelack?color=%2300ff00&label=Followers&style=for-the-badge">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <br>
 <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-%40Wafelack%235334-7289DA?style=for-the-badge">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="Reddit" src="https://img.shields.io/badge/Reddit-u/wafelack-ff5522?style=for-the-badge">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/wafelackk?color=%231da1f2&label=%40wafelackk&logo=twitter&style=for-the-badge">
 </p>
   
 ___
