@@ -12,7 +12,7 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
 
 **Useful (I hope) links:**<br><br>
 
-<div align="center">
+<div>
 
 - [My website](https://wafelack.github.io)
 - [My twitch channel](https://twitch.tv/wafelack)
