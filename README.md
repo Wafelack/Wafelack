@@ -21,11 +21,11 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
 <br>
 
 <p align="center">
-<img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/wafelack?color=%2300bb00&label=Followers&style=for-the-badge">
+<img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/wafelack?color=%2300bb00&label=Followers&style=flat-square">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wmanage/wng?color=%23ff7700&label=Wng%20stars&style=for-the-badge">
+<img align="center" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wmanage/wng?color=%23ff7700&label=Wng%20stars&style=flat-square">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Wafelack">
+<img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Wafelack&style=flat-square">
 </p>
 
 <br>
