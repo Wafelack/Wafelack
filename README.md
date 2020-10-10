@@ -29,7 +29,8 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/wafelackk?color=%231da1f2&label=%40wafelackk&logo=twitter&style=for-the-badge">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wmanage/wng?color=%23ff7700&label=Wng%20stars&style=for-the-badge"></p>
+<img align="center" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wmanage/wng?color=%23ff7700&label=Wng%20stars&style=for-the-badge">
+</p>
   
 ___
 <i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github</i>
