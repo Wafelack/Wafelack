@@ -10,7 +10,7 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
 - 💬 If you have any question, you can ask me [here](https://github.com/Wafelack/Wafelack/issues) or on [my rust-dedicated discord server](https://discord.gg/KehXjPa)
 
 
-**Useful (I hope) links:**<br><br>
+**Useful (I hope) links:**<br>
 
 <div>
 
@@ -18,6 +18,8 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
 - [My twitch channel](https://twitch.tv/wafelack)
 
  </div>
+ 
+ <br>
 
 
 **Languages & Tools:**<br><br>
