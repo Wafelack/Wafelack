@@ -25,7 +25,7 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wmanage/wng?color=%23ff7700&label=Wng%20stars&style=for-the-badge">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Profile Views" src"https://komarev.com/ghpvc/?username=Wafelack">
+<img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Wafelack">
 </p>
 
 <br>
