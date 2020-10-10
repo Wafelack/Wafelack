@@ -34,7 +34,7 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
 &nbsp;
 <code><a href="https://www.jetbrains.com/clion/"><img width=20 alt="Clion" src="https://cdn.discordapp.com/attachments/739797589687402519/744692286427889734/clion.png"/></a></code>
 <code><a href="https://intellij-rust.github.io/"><img width=20 alt="Intellij Rust" src="https://avatars0.githubusercontent.com/u/16057867?s=200&v=4"/></a></code>
-<code><a href="https://www.jetbrains.com/pycharm/"><img width=20 alt="PyCharm" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3nmt5vlzunoa1.cloudfront.net%2Fpycharm%2Ffiles%2F2015%2F12%2FPyCharm_400x400_Twitter_logo_white.png&f=1&nofb=1"/></a></code>
+<code><a href="https://www.jetbrains.com/pycharm/"><img width=25 alt="PyCharm" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3nmt5vlzunoa1.cloudfront.net%2Fpycharm%2Ffiles%2F2015%2F12%2FPyCharm_400x400_Twitter_logo_white.png&f=1&nofb=1"/></a></code>
 <code><a href="https://code.visualstudio.com/"><img width=20 alt="VSCode" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"/></a></code>
 <code><a href="https://code.visualstudio.com/insiders/"><img width=20 alt="VSCode Insiders" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4b%2FVisual_Studio_Code_Insiders_1.36_icon.svg%2F170px-Visual_Studio_Code_Insiders_1.36_icon.svg.png&f=1&nofb=1"/></a></code>
 <code><a href="https://www.vim.org/"><img width=20 alt="VI Improved" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4f%2FIcon-Vim.svg%2F1024px-Icon-Vim.svg.png&f=1&nofb=1"/></a></code>
