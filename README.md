@@ -23,13 +23,34 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
 
 
 **Languages & Tools:**<br><br>
-<code alt="Rustlang"><a href="https://rust-lang.com"><img height=20 alt="Rustlang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" /></a></code>
-<code alt="Clang"><img height=20 alt="Clang" src="https://wiki.sei.cmu.edu/confluence/download/thumbnails/88042725/C%20Logo.png?version=1&modificationDate=1527685155000&api=v2"/></code>
-<code><a href="https://intellij-rust.github.io/"><img height=20 alt="https://intellij-rust.github.io" src="https://avatars0.githubusercontent.com/u/16057867?s=200&v=4"/></a></code>
-<code><a href="https://git-scm.com/"><img height=20 alt="Git" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png"/></a></code>
-<code><a href="https://www.jetbrains.com/clion/"><img height=20 alt="Clion" src="https://cdn.discordapp.com/attachments/739797589687402519/744692286427889734/clion.png"/></a></code>
-<code><a href="https://code.visualstudio.com/"><img height=20 alt="VSCode" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"/></a></code>
-<code><a href="https://wmanage.github.io/"><img height=20 alt="WNG" src="https://github.com/Wmanage/wng/blob/master/assets/wng.png"/></a></code>
+
+[//]: # "Languages"
+
+<code alt="Rustlang"><a href="https://rust-lang.com"><img width=20 alt="Rustlang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" /></a></code>
+<code><a href="https://python.org"><img width=20 alt="python" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1200px-Python-logo-notext.svg.png&f=1&nofb=1"/></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width=20 alt="css" src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png"/></a></code>
+<code alt="Clang"><img width=20 alt="Clang" src="https://wiki.sei.cmu.edu/confluence/download/thumbnails/88042725/C%20Logo.png?version=1&modificationDate=1527685155000&api=v2"/></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width=20 alt="html" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"/></a></code>
+<code><a href="https://www.gnu.org/software/bash/"><img width=20 alt="bash" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png"/></a></code>
+&nbsp;
+
+
+[//]: # "IDEs and editors"
+
+<code><a href="https://www.jetbrains.com/clion/"><img width=20 alt="Clion" src="https://cdn.discordapp.com/attachments/739797589687402519/744692286427889734/clion.png"/></a></code>
+<code><a href="https://code.visualstudio.com/"><img width=20 alt="VSCode" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"/></a></code>
+<code><a href="https://intellij-rust.github.io/"><img width=20 alt="Intellij Rust" src="https://avatars0.githubusercontent.com/u/16057867?s=200&v=4"/></a></code>
+
+<code><a href="https://www.vim.org/"><img width=20 alt="VI Improved" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4f%2FIcon-Vim.svg%2F1024px-Icon-Vim.svg.png&f=1&nofb=1"/></a></code>
+&nbsp;
+
+[//]: # "Tools"
+
+<code><a href="https://git-scm.com/"><img width=20 alt="Git" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png"/></a></code>
+
+<code><a href="https://wmanage.github.io/"><img width=20 alt="WNG" src="https://github.com/Wmanage/wng/blob/master/assets/wng.png"/></a></code>
+
+
 
 <br>
 
