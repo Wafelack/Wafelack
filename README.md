@@ -21,7 +21,7 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
 <br>
 
 <p align="center">
-<img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/wafelack?color=%2300ff00&label=Followers&style=for-the-badge">
+<img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/wafelack?color=%2300bb00&label=Followers&style=for-the-badge">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-%40Wafelack%235334-7289DA?style=for-the-badge">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
