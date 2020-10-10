@@ -9,6 +9,14 @@ I'm Wafelack, a <b>french</b> developer and student currently in high school. I 
 - ⚙ I'm learning [Rustlang](https://rust-lang.org)
 - 💬 If you have any question, you can ask me [here](https://github.com/Wafelack/Wafelack/issues) or on [my rust-dedicated discord server](https://discord.gg/KehXjPa)
 
+
+**Useful (I hope) links:**<br><br>
+
+<div align="center">
+ <a align="center" href="https://wafelack.github.io">My Website</a>
+ </div>
+
+
 **Languages & Tools:**<br><br>
 <code alt="Rustlang"><a href="https://rust-lang.com"><img height=20 alt="Rustlang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" /></a></code>
 <code alt="Clang"><img height=20 alt="Clang" src="https://wiki.sei.cmu.edu/confluence/download/thumbnails/88042725/C%20Logo.png?version=1&modificationDate=1527685155000&api=v2"/></code>
