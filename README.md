@@ -81,7 +81,7 @@ ___
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=wafelack&theme=monokai"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=wafelack&theme=monokai&column=3&margin-w=15&margin-h=15&title=Followers,Star,Commit,PR,Issue,Repositories"/>
 </a>
 </a>
 </p>
