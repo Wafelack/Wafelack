@@ -79,7 +79,10 @@ ___
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafelack&langs_count=6&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&bg_color=111111"/>
 </a>
- 
+&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=wafelack&theme=monokai"/>
+</a>
 </a>
 </p>
 
