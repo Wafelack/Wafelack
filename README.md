@@ -50,11 +50,16 @@ Other      2 hrs 32 mins   ██░░░░░░░░░░░░░░░�
 
 <div align="center">
   <a href="https://github.com/wafelack/wng">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=wng&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
   </a>    
   <a href="https://github.com/wafelack/orion-lang">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=orion-lang&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
   </a>  
+  <a href="https://github.com/wafelack/rdfm">
+    <img align="center" src="https://readme-stats-kzn8tdhjy.vercel.app/api/pin/?username=wafelack&repo=rdfm&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111">
+  </a>
+  <a href="https://github.com/wafelack/homebruh">
+    <img align="center" src="https://readme-stats-kzn8tdhjy.vercel.app/api/pin/?username=wafelack&repo=homebruh&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111">
+  </a>
+
 </div>
