@@ -14,7 +14,7 @@ I'm Wafelack, a <b>french</b> self-taught developer and student currently in hig
 
 <div>
 
-- [My website](https://wafelack.github.io)
+- [My website](https://wafelack.fr)
 - [My twitch channel](https://twitch.tv/wafelack)
 - [My Dev.to](https://dev.to/wafelack)
 
