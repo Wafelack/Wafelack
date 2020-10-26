@@ -99,9 +99,9 @@ ___
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wmanage&repo=wng&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>    
-<a href="https://github.com/wafelack/wafelack.github.io">
+<a href="https://github.com/wafelack/Ark.vim">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=wafelack.github.io&title_color=563d7c&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=Ark.vim&title_color=563d7c&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
 
 <a href="https://github.com/wafelack/ferribot">
