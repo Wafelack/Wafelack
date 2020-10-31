@@ -90,6 +90,12 @@ ___
 <br>
 <br>
 
+## My [dev.to](https://dev.to/wafelack) articles
+
+<!-- DEVTO:START -->
+- [Why i created a package and project manager for C lang](https://dev.to/wafelack/why-i-created-a-package-and-project-manager-for-c-lang-5f65)
+<!-- DEVTO:END -->
+
 
 <br>
 <br>
@@ -113,9 +119,3 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=marsdown&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
   </p>
-
-<!-- DEVTO:START -->
-- [Why i created a package and project manager for C lang](https://dev.to/wafelack/why-i-created-a-package-and-project-manager-for-c-lang-5f65)
-<!-- DEVTO:END -->
-
-
