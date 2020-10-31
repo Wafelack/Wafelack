@@ -115,7 +115,7 @@ ___
   </p>
 
 <!-- DEVTO:START -->
-
+- [Why i created a package and project manager for C lang](https://dev.to/wafelack/why-i-created-a-package-and-project-manager-for-c-lang-5f65)
 <!-- DEVTO:END -->
 
 
