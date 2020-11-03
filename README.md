@@ -1,8 +1,7 @@
 # Wafelack
 
 Hi 🖖!
-I'm Wafelack, a <b>french</b> self-taught developer and student currently in high school. I looooove programming various things. My main language is <b>Rust</b> but i can code in several languages if necessary.
-
+I'm Wafelack, a <b>french</b> self-taught developer and student currently in high school. I looooove programming and learning various things.
 <br>
 
 - 👩‍💻I'm currently working on [Wanager](https://github.com/Wafelack/wanager), my project/package manager.
