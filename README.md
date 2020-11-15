@@ -99,6 +99,8 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
+Week: 07 November, 2020 - 14 November, 2020
+
 Rust         12 hrs 15 mins  ███████████████████████░░   92.49 % 
 Markdown     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 TOML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
