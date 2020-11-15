@@ -17,12 +17,13 @@ I'm Wafelack, a <b>french</b> self-taught developer and student currently in hig
 **Languages & Tools:**<br><br>
 
 
-<code alt="Rustlang"><a href="https://rust-lang.com"><img width=20 alt="Rustlang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" /></a></code>
+<code alt="Rustlang"><a href="https://rust-lang.com"><img width=20 alt="Rustlang" src="https://reach.rust-lang.org/static/rust-logo-white.png" /></a></code>
 <code><a href="https://python.org"><img width=20 alt="python" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1200px-Python-logo-notext.svg.png&f=1&nofb=1"/></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width=20 alt="css" src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png"/></a></code>
-<code alt="Clang"><img width=20 alt="Clang" src="https://wiki.sei.cmu.edu/confluence/download/thumbnails/88042725/C%20Logo.png?version=1&modificationDate=1527685155000&api=v2"/></code>
+<code alt="Clang"><img width=20 alt="Clang" src="https://www.seekpng.com/png/full/353-3535324_c-programming-language-icon.png"/></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width=20 alt="html" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"/></a></code>
 <code><a href="https://www.gnu.org/software/bash/"><img width=20 alt="bash" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png"/></a></code>
+<code><img width=20 alt="vimscript" src="https://iconarchive.com/download/i94394/bokehlicia/captiva/vim.ico"/></code>
 &nbsp;
 <code><a href="https://www.jetbrains.com/clion/"><img width=20 alt="Clion" src="https://cdn.discordapp.com/attachments/739797589687402519/744692286427889734/clion.png"/></a></code>
 <code><a href="https://intellij-rust.github.io/"><img width=20 alt="Intellij Rust" src="https://avatars0.githubusercontent.com/u/16057867?s=200&v=4"/></a></code>
