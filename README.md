@@ -9,7 +9,7 @@ I'm Wafelack, a <b>french</b> self-taught developer and student currently in hig
  
 - 🌱 I'm currently learning [Rustlang](https://rust-lang.org)
 - 📫 You can reach me at [wafelack@protonmail.com](mailto:wafelack@protonmail.com)
-- You can find my website [here](https://wafelack.fr)
+- 🌐 You can find my website [here](https://wafelack.fr)
 
  <br>
 
