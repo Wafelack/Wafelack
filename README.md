@@ -5,7 +5,7 @@ I'm Wafelack, a <b>french</b> self-taught developer and student currently in hig
 <br>
 
 - 👩‍💻I'm currently working on 
- - [Wanager](https://github.com/Wafelack/wanager), a C lang project manager
+  - [Wanager](https://github.com/Wafelack/wanager), a C lang project manager
  
 - 🌱 I'm currently learning [Rustlang](https://rust-lang.org)
 - 📫 You can reach me at [wafelack@protonmail.com](mailto:wafelack@protonmail.com)
