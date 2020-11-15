@@ -4,21 +4,12 @@ Hi 🖖!
 I'm Wafelack, a <b>french</b> self-taught developer and student currently in high school. I looooove programming and learning various things.
 <br>
 
-- 👩‍💻I'm currently working on [Wanager](https://github.com/Wafelack/wanager), my project/package manager.
-- ⚙ I'm learning [Rustlang](https://rust-lang.org)
-- 💬 If you have any question, you can ask me [here](https://github.com/Wafelack/Wafelack/issues) or on [my rust-dedicated discord server](https://discord.gg/KehXjPa)
+- 👩‍💻I'm currently working on 
+ - [Wanager](https://github.com/Wafelack/wanager), a C lang project manager
+- 🌱 I'm currently learning [Rustlang](https://rust-lang.org)
+- 📫 You can reach me at [wafelack@protonmail.com](mailto:wafelack@protonmail.com)
+- You can find my website [here](https://wafelack.fr)
 
-
-**Useful (I hope) links:**<br>
-
-<div>
-
-- [My website](https://wafelack.fr)
-- [My twitch channel](https://twitch.tv/wafelack)
-- [My Dev.to](https://dev.to/wafelack)
-
- </div>
- 
  <br>
 
 
