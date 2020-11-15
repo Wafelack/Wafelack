@@ -15,4 +15,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          COMMIT_MESSAGE: Auto: updated wakatime stats in README
+          COMMIT_MESSAGE: Updated wakatime stats in README
