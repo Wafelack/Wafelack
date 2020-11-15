@@ -22,7 +22,7 @@ I'm Wafelack, a <b>french</b> self-taught developer and student currently in hig
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width=20 alt="css" src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png" title="Cascading Style Sheets"/></a></code>
 <code alt="Clang"><img width=20 alt="Clang" src="https://www.seekpng.com/png/full/353-3535324_c-programming-language-icon.png" title="The C Programming language"/></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width=20 alt="html" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" title="HyperText Markup Language"/></a></code>
-<code><a href="https://www.gnu.org/software/bash/"><img width=20 alt="bash" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png" title="The Bourne Again SHell/></a></code>
+<code><a href="https://www.gnu.org/software/bash/"><img width=20 alt="bash" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png" title="The Bourne Again SHell"/></a></code>
 <code><img width=20 alt="vimscript" src="https://iconarchive.com/download/i94394/bokehlicia/captiva/vim.ico" title="VimScript"/></code>
 &nbsp;
 <code><a href="https://www.jetbrains.com/clion/"><img width=20 alt="Clion" src="https://cdn.discordapp.com/attachments/739797589687402519/744692286427889734/clion.png" title="JetBrains CLion"/></a></code>
