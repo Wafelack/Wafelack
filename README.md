@@ -117,7 +117,7 @@ Bash       1 hr 4 mins     █▒░░░░░░░░░░░░░░░�
 
 <a href="https://github.com/wafelack/sendfile">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=ferribot&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=sendfile&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
 <a href="https://github.com/wafelack/marsdown">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
