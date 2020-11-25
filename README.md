@@ -110,9 +110,9 @@ Python   1 hr 54 mins    █▓░░░░░░░░░░░░░░░░�
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wmanage&repo=wng&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>    
-<a href="https://github.com/wafelack/Ark.vim">
+<a href="https://github.com/wafelack/raytracer">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=Ark.vim&title_color=199f4b&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=raytracer&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
 
 <a href="https://github.com/wafelack/sendfile">
