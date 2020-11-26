@@ -92,13 +92,13 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2020 - 24 November, 2020
+Week: 18 November, 2020 - 25 November, 2020
 
-VimL     8 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.38 % 
-Rust     5 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Other    4 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Ruby     3 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Python   1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Rust     8 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+VimL     5 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Other    4 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Ruby     3 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Python   1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 ```
 <!--END_SECTION:waka-->
 
