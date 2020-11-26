@@ -40,11 +40,8 @@ I'm Wafelack, a <b>french</b> self-taught developer and student currently in hig
 <br>
 
 <p align="center">
-<img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/wafelack?color=%2300bb00&label=Followers&style=flat-square">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wmanage/wng?color=%23ff7700&label=Wng%20stars&style=flat-square">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Wafelack&style=flat-square">
+
+<img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Wafelack">
 
 </p>
 
