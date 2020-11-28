@@ -17,9 +17,8 @@ I'm Wafelack, a <b>french</b> self-taught developer and student currently in hig
 
 **Technologies I'm using** :
 
-<div align="center">
   <img src="https://img.shields.io/badge/rust%20-%23cc5500.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/VimScript-%2322aa22.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-</div>
+
 
 <br>
 <br>
