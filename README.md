@@ -1,16 +1,14 @@
-# Wafelack
+Hi I'm Wafelack
+===============
 
-Hi 🖖!
-I'm Wafelack, a <b>french</b> self-taught developer and student currently in high school. I looooove programming and learning various things.
-<br>
 
 <img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Wafelack">
 
-- 👩‍💻I'm currently working on 
-  - [Wanager](https://github.com/Wmanage/wng), a C lang project manager
-  - [Vlugger](https://github.com/wafelack/vlugger), a Vim plugin manager
- 
-- 🌱 I'm currently learning [Rustlang](https://rust-lang.org)
+Hi 🖖!
+I'm Wafelack, a <b>french</b> developer and student currently in high school. I'm a big Vim and Rustlang fan, I do everything with these two things 😁.
+<br>
+
+I'm currently working on various projects, but especially [my raytracer](https://github.com/wafelack/raytracer) and [my plugin manager for Vim](https://github.com/wafelack/vlugger).
 
  <br>
 
@@ -89,15 +87,6 @@ Python   1 hr 51 mins    ██▒░░░░░░░░░░░░░░░�
 <a href="https://github.com/wafelack/sendfile">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=sendfile&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
-</a>
-<a href="https://github.com/wafelack/marsdown">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=marsdown&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
-</a>
-
-<a href="https://github.com/wafelack/remote_access_tool">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wafelack&repo=remote_access_tool&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
 
 <a href="https://github.com/wafelack/vlugger">
