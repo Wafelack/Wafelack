@@ -44,21 +44,8 @@ I'm Wafelack, a <b>french</b> self-taught developer and student currently in hig
 <img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Wafelack">
 
 </p>
-
-<br>
-<br>
-
-<p align="center">
-<img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-%40Wafelack%235334-7289DA?style=for-the-badge">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Reddit" src="https://img.shields.io/badge/Reddit-u/wafelack-ff5522?style=for-the-badge">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/wafelackk?color=%231da1f2&label=%40wafelackk&logo=twitter&style=for-the-badge">
-  
-</p>
   
 ___
-<i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github</i>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
