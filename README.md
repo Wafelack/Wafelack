@@ -19,8 +19,6 @@ I'm currently working on various projects, but especially [my raytracer](https:/
   <img src="https://img.shields.io/badge/rust%20-%23cc5500.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/VimScript-%2322aa22.svg?&style=for-the-badge&logo=vim&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%235555ff.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 
-<br>
-<br>
 
 **My GitHub stats** :
 ---------------------
