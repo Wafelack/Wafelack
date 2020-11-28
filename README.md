@@ -16,6 +16,7 @@ I'm Wafelack, a <b>french</b> self-taught developer and student currently in hig
 
 
 **Technologies I'm using** :
+----------------------------
 
   <img src="https://img.shields.io/badge/rust%20-%23cc5500.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/VimScript-%2322aa22.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 
@@ -24,6 +25,7 @@ I'm Wafelack, a <b>french</b> self-taught developer and student currently in hig
 <br>
 
 **My GitHub stats** :
+---------------------
 ___
 
 <p align="center">
@@ -69,6 +71,7 @@ Python   1 hr 51 mins    ██▒░░░░░░░░░░░░░░░�
 <br>
 
 **My main projects** :
+----------------------
 
 <br>
 <br>
