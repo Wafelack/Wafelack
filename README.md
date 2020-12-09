@@ -8,8 +8,6 @@ Hi 🖖!
 I'm Wafelack, a young developer currently in high school. I'm passionate about technology and especially programming. I code since about 2 years now and I am a big Vim and Rustlang fan.
 <br>
 
-I'm currently working on various projects, but especially [my raytracer](https://github.com/wafelack/raytracer) and [my plugin manager for Vim](https://github.com/wafelack/vlugger).
-
  <br>
 
 
