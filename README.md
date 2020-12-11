@@ -51,13 +51,13 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
-Rust       23 hrs 45 mins  ████████████████▒░░░░░░░░   65.45 % 
-Go         2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Markdown   1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Other      1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Velocity   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Rust       20 hrs 41 mins  ███████████████░░░░░░░░░░   60.00 % 
+Go         3 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Markdown   2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Other      1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+CSS        1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 <!--END_SECTION:waka-->
 
