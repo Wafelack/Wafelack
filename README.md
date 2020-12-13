@@ -28,7 +28,7 @@ ___
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=9&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&bg_color=111111&hide=html,css"/>
+<img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=8&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&bg_color=111111&hide=html,shell,css"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/ryo-ma/github-profile-trophy">
