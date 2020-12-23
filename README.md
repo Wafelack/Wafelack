@@ -51,13 +51,13 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2020 - 21 December, 2020
+Week: 15 December, 2020 - 22 December, 2020
 
-Rust         9 hrs 17 mins   █████████████████▒░░░░░░░   69.25 % 
-CSS          1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Markdown     1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-HTML         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Rust         11 hrs 11 mins  ██████████████████▓░░░░░░   74.31 % 
+CSS          1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Markdown     1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+HTML         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 <!--END_SECTION:waka-->
 
