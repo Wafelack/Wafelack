@@ -51,13 +51,13 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2020 - 25 December, 2020
+Week: 19 December, 2020 - 26 December, 2020
 
-Rust         18 hrs 26 mins  █████████████████████▓░░░   86.02 % 
-Markdown     1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Bash         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-TOML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Rust         17 hrs 40 mins  ██████████████████████▒░░   89.68 % 
+Markdown     1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Bash         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+JavaScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
 
