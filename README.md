@@ -79,7 +79,7 @@ Ruby    14 mins         █▒░░░░░░░░░░░░░░░░�
 </a>
 <a href="https://github.com/wafelack/bypass-shell">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=bypass-shell&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=bypass-shell&title_color=c1f12e&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
 
 
