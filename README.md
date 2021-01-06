@@ -51,13 +51,13 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
-Rust       19 hrs 10 mins  ████████████████░░░░░░░░░   63.72 % 
-Lua        2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Markdown   1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Bash       1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Other      1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Rust       24 hrs 4 mins   █████████████████▓░░░░░░░   70.56 % 
+Markdown   2 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Lua        2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Other      1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Bash       1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 <!--END_SECTION:waka-->
 
