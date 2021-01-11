@@ -51,13 +51,13 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
-Rust       29 hrs 40 mins  ███████████████████▒░░░░░   76.92 % 
-Markdown   3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Other      2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-VimL       55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Bash       54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Rust         28 hrs 13 mins  ████████████████████░░░░░   79.90 % 
+Markdown     2 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Other        2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+VimL         55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 <!--END_SECTION:waka-->
 
