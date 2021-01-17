@@ -51,7 +51,7 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2021 - 15 January, 2021
+Week: 09 January, 2021 - 16 January, 2021
 
 Rust         28 hrs 13 mins  ████████████████████░░░░░   79.90 % 
 Markdown     2 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
