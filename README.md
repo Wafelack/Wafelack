@@ -14,7 +14,7 @@ I'm Wafelack, a young developer currently in high school. I'm passionate about t
 **Technologies I'm using** :
 ----------------------------
 
-  <img src="https://img.shields.io/badge/rust%20-%23cc5500.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/VimScript-%23199f4b.svg?&style=for-the-badge&logo=vim&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%233572a5.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/golang%20-%2300add8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust%20-%23cc5500.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/VimScript-%23199f4b.svg?&style=for-the-badge&logo=vim&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%233572a5.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 
 
@@ -28,7 +28,7 @@ ___
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=8&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&bg_color=111111&hide=html,shell,css"/>
+<img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=6&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&bg_color=111111&hide=html,shell,css"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -40,12 +40,6 @@ ___
 <br>
 <br>
 <br>
-
-## My [dev.to](https://dev.to/wafelack) articles
-
-<!-- DEVTO:START -->
-- [Why i created a package and project manager for C lang](https://dev.to/wafelack/why-i-created-a-package-and-project-manager-for-c-lang-5f65)
-<!-- DEVTO:END -->
 
 ## My wakatime weekly stats 📊
 
