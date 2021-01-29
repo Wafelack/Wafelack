@@ -45,7 +45,7 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2021 - 27 January, 2021
+Week: 21 January, 2021 - 28 January, 2021
 
 Rust    1 hr 27 mins    ████████████▓░░░░░░░░░░░░   50.84 % 
 Other   41 mins         ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
