@@ -14,7 +14,7 @@ I'm Wafelack, a 13 years old rust enthusiast currently in high school. I'm passi
 **Technologies I'm using** :
 ----------------------------
 
-  <img src="https://img.shields.io/badge/rust%20-%23cc5500.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/VimScript-%23199f4b.svg?&style=for-the-badge&logo=vim&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%233572a5.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust%20-%23cc5500.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/VimScript-%23199f4b.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 
 
 
@@ -28,7 +28,7 @@ ___
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=6&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&bg_color=111111&hide=html,shell,css"/>
+<img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=7&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&exclude_repo=dotfiles&bg_color=111111&hide=html,css"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/ryo-ma/github-profile-trophy">
