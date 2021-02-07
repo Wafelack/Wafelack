@@ -69,9 +69,9 @@ Ruby    14 mins         █▒░░░░░░░░░░░░░░░░�
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=raytracer&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
-<a href="https://github.com/wafelack/wng">
+<a href="https://github.com/wngland/wng">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=wng&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wngland&repo=wng&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>    
 <a href="https://github.com/wafelack/wlvm">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
