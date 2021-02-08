@@ -73,13 +73,13 @@ Ruby    14 mins         █▒░░░░░░░░░░░░░░░░�
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wngland&repo=wng&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>    
-<a href="https://github.com/wafelack/wlvm">
+<a href="https://github.com/wafelack/orion-lang">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=wlvm&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=orion-lang&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
-<a href="https://github.com/wafelack/vlugger">
+<a href="https://github.com/wafelack/bypass-shell">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=vlugger&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=bypass-shell&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
 
 
