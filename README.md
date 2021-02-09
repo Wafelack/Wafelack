@@ -14,7 +14,7 @@ I'm Wafelack, a 13 years old rust enthusiast currently in high school. I'm passi
 **Technologies I'm using** :
 ----------------------------
 
-  <img src="https://img.shields.io/badge/rust%20-%23cc5500.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/VimScript-%23199f4b.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust%20-%23cc5500.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/Vim-%23199f4b.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 
 
 
