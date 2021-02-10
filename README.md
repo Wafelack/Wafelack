@@ -8,16 +8,6 @@ Hi 🖖!
 I'm Wafelack, a 13 years old rust enthusiast currently in high school. I'm passionate about technology and especially programming. I code since about 1 year now and I love creating programming languages.
 <br>
 
- <br>
-
-
-**Technologies I'm using** :
-----------------------------
-
-  <img src="https://img.shields.io/badge/rust%20-%23cc5500.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/Vim-%23199f4b.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-
-
-
 **My GitHub stats** :
 ---------------------
 ___
@@ -26,14 +16,10 @@ ___
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api?username=wafelack&custom_title=Wafelack contributions :&show_icons=true&title_color=bbbbbb&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
+ <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=7&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&exclude_repo=dotfiles&bg_color=111111&hide=html,css"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=wafelack&theme=monokai&column=3&margin-w=15&margin-h=15&title=Followers,Star,Commit,PR,Issue,Repositories"/>
-</a>
 </a>
 </p>
 
