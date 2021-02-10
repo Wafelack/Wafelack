@@ -47,15 +47,6 @@ Bash       31 mins         ▓░░░░░░░░░░░░░░░░�
 
 **My main projects** :
 ----------------------
-
-<br>
-<br>
-
-<p align="center">
- <a href="https://github.com/wafelack/raytracer">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=raytracer&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
-</a>
 <a href="https://github.com/wafelack/wng">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=wng&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
@@ -63,10 +54,6 @@ Bash       31 mins         ▓░░░░░░░░░░░░░░░░�
 <a href="https://github.com/wafelack/orion-lang">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=orion-lang&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
-</a>
-<a href="https://github.com/wafelack/bypass-shell">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=bypass-shell&title_color=c1f12e&text_color=dddddd&icon_color=990000&bg_color=111111" />
 </a>
 
 
