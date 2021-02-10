@@ -8,9 +8,10 @@ Hi 🖖!
 I'm Wafelack, a 13 years old rust enthusiast currently in high school. I'm passionate about technology and especially programming. I code since about 1 year now and I love creating programming languages.
 <br>
 
+___
+
 **My GitHub stats** :
 ---------------------
-___
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
