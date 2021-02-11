@@ -20,7 +20,7 @@ ___
   <br>
  <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=7&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&exclude_repo=dotfiles&bg_color=111111&hide=html,css"/>
+<img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=7&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&bg_color=111111&hide=html,css"/>
 </a>
 </p>
 
@@ -47,14 +47,14 @@ Lua        1 hr 26 mins    █▒░░░░░░░░░░░░░░░�
 
 **My main projects** :
 ----------------------
-<a href="https://github.com/wafelack/wng">
+
+<div align="center">
+  <a href="https://github.com/wafelack/wng">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=wng&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
-</a>    
-<a href="https://github.com/wafelack/orion-lang">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=orion-lang&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
-</a>
-
-
-  </p>
+  </a>    
+  <a href="https://github.com/wafelack/orion-lang">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=orion-lang&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
+  </a>  
+</div>
