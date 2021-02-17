@@ -32,7 +32,7 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2021 - 15 February, 2021
+Week: 09 February, 2021 - 16 February, 2021
 
 Rust       9 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.90 % 
 C          8 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
