@@ -56,10 +56,10 @@ Other      2 hrs 32 mins   ██░░░░░░░░░░░░░░░�
     <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=orion-lang&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
   </a>  
   <a href="https://github.com/wafelack/rdfm">
-    <img align="center" src="https://readme-stats-kzn8tdhjy.vercel.app/api/pin/?username=wafelack&repo=rdfm&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111">
+    <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=rdfm&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111">
   </a>
   <a href="https://github.com/wafelack/homebruh">
-    <img align="center" src="https://readme-stats-kzn8tdhjy.vercel.app/api/pin/?username=wafelack&repo=homebruh&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111">
+    <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=homebruh&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111">
   </a>
 
 </div>
