@@ -20,7 +20,7 @@ ___
   <br>
  <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=7&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&bg_color=111111&hide=html,css&lang_count=6"/>
+<img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/top-langs/?username=wafelack&langs_count=6&title_color=bbbbbb&text_color=dddddd&icon_color=990000&layout=compact&bg_color=111111&hide=html,css&lang_count=5"/>
 </a>
 </p>
 
