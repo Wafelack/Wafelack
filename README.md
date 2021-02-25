@@ -32,13 +32,13 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 February, 2021 - 23 February, 2021
+Week: 17 February, 2021 - 24 February, 2021
 
-C          11 hrs 58 mins  █████████▓░░░░░░░░░░░░░░░   38.64 % 
-Rust       9 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   29.57 % 
-Makefile   2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Other      2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Markdown   1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+C          13 hrs 21 mins  ███████████▓░░░░░░░░░░░░░   47.17 % 
+Rust       6 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Makefile   2 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Other      1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Markdown   1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 <!--END_SECTION:waka-->
 
