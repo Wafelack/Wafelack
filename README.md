@@ -49,6 +49,9 @@ NASM       24 mins         ▒░░░░░░░░░░░░░░░░�
 ----------------------
 
 <div align="center">
+    <a href="https://github.com/wafelack/wavm">
+    <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=wavm&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111">
+  </a>
   <a href="https://github.com/wafelack/wng">
   <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=wng&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111" />
   </a>    
@@ -57,9 +60,6 @@ NASM       24 mins         ▒░░░░░░░░░░░░░░░░�
   </a>  
   <a href="https://github.com/wafelack/rdfm">
     <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=rdfm&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111">
-  </a>
-  <a href="https://github.com/wafelack/wavm">
-    <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=wavm&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=111111">
   </a>
 
 </div>
