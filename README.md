@@ -1,6 +1,11 @@
 Hi I'm Wafelack
 ===============
 
+___
+
+**INFO: I'm moving to [GitLab](https://gitlab.com/wafelack), then there won't be new repositories on this account. Previous projects will continue to be on this platform and will be maintained.
+
+___
 
 <img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Wafelack">
 
