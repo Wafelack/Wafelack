@@ -36,7 +36,7 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 March, 2021 - 25 March, 2021
+Week: 19 March, 2021 - 26 March, 2021
 
 Rust       23 hrs 52 mins  ███████████████████░░░░░░   76.08 % 
 Roff       2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
