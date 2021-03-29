@@ -58,8 +58,8 @@ JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░
   <a href="https://github.com/wafelack/wng">
   <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=wng&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=0d1117" />
   </a>    
-  <a href="https://github.com/wafelack/orion-lang">
-    <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=orion-lang&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=0d1117" />
+  <a href="https://github.com/wafelack/orion">
+    <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=orion&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=0d1117" />
   </a>  
   <a href="https://github.com/wafelack/rdfm">
     <img align="center" src="https://readme-stats-kzn8ydhjy.vercel.app/api/pin/?username=wafelack&repo=rdfm&title_color=dea584&text_color=dddddd&icon_color=990000&bg_color=0d1117">
