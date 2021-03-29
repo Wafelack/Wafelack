@@ -9,7 +9,7 @@ I'm Wafelack, a 14 years old rust enthusiast currently in junior high school. I'
 
 ___
 
-* **Current project:** Rewriting [Orion](https://github.com/wafelack/orion-lang).
+* **Current project:** Rewriting [Orion](https://github.com/wafelack/orion).
 
 ___
 
