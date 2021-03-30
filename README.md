@@ -4,7 +4,7 @@ Hi I'm Wafelack
 <img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Wafelack">
 
 Hi !
-I'm Wafelack, a 14 years old rust enthusiast currently in junior high school. I'm passionate about technology and especially programming. I started coding around 1 year ago and I love creating programming languages.
+I'm Wafelack, a 14 years old rust enthusiast currently in junior high school. I'm passionate about technology and especially programming. I started coding around March 2020 and I love creating programming languages.
 <br>
 
 ___
