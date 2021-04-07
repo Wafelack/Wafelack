@@ -35,7 +35,7 @@ ___
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 March, 2021 - 05 April, 2021
+Week: 30 March, 2021 - 06 April, 2021
 
 Rust       19 hrs 17 mins  ██████████████████▒░░░░░░   73.43 % 
 TeX        3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
