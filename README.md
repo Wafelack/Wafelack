@@ -1,6 +1,6 @@
 Hi, I'm Wafelack, a french Rust programmer and 10th grade student. I'm enthusiastic about free software and programming languages development.
 
-- I'm currently working on [Vim Lisp](https://github.com/wafelack/vimlisp).
+- I'm currently working on [Vim Lisp](https://github.com/wafelack/gvlc).
 - I'm currently learning Scheme.
 
 My projects:
