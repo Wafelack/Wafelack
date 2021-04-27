@@ -1,12 +1,11 @@
 Hi, I'm Wafelack, a french Rust programmer and 10th grade student. I'm enthusiastic about free software and programming languages development.
 
-- I'm currently working on [Vim Lisp](https://github.com/wafelack/gvlc).
-- I'm learning Common Lisp.
+- I'm currently working on [Orion](https://github.com/wafelack/Orion).
 
 - You can reach me @ [wafelack@protonmail.com](mailto:wafelack@protonmail.com).
 
 My projects:
-- [Orion](https://github.com/wafelack/orion): A purely functional Lisp.
+- [Orion](https://github.com/wafelack/orion): A purely functional LISP like programming language.
 - [wavm](https://github.com/wafealck/wavm): A register based Virtual Machine.
 - [rdfm](https://github.com/wafelack/rdfm): A basic dotfiles manager.
 
