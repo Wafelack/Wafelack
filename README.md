@@ -1,6 +1,6 @@
 Hi, I'm Wafelack, a french Rust programmer and 10th grade student. I'm enthusiastic about free software and programming languages development.
 
-- I'm currently working on [Orion](https://github.com/wafelack/Orion).
+- I'm currently working on [Orion](https://github.com/orion-lang/orion).
 
 - You can reach me @ [wafelack@protonmail.com](mailto:wafelack@protonmail.com).
 
