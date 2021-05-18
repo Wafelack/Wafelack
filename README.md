@@ -5,7 +5,7 @@ Hi, I'm Wafelack, a french Rust programmer and 10th grade student. I'm enthusias
 - You can reach me @ [wafelack@protonmail.com](mailto:wafelack@protonmail.com).
 
 My projects:
-- [Orion](https://github.com/orion-lang/orion): A purely functional LISP like programming language.
+- [Orion](https://github.com/orion-lang/orion): A purely functional LISP inspired programming language.
 - [wavm](https://github.com/Wafelack/wavm): A register based Virtual Machine.
 - [rdfm](https://github.com/Wafelack/rdfm): A basic dotfiles manager.
 
