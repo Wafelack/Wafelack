@@ -2,7 +2,7 @@ Hi, I'm Wafelack, a french Rust programmer and 10th grade student. I'm enthusias
 
 - I'm currently working on [Orion](https://github.com/orion-lang/orion).
 
-- You can reach me at wafelack at protonmail dot com.
+- You can reach me at wafelack at wafekacj dot fr.
 
 My projects:
 - [Orion](https://github.com/orion-lang/orion): A purely functional LISP inspired programming language.
