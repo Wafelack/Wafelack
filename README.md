@@ -2,11 +2,11 @@ Hi, I'm Wafelack, a french Rust programmer and 10th grade student. I'm enthusias
 
 - I'm currently working on [Orion](https://github.com/orion-lang/orion).
 
-- You can reach me at wafelack at wafekacj dot fr.
+- You can reach me at wafelack at wafelack dot fr.
 
 My projects:
 - [Orion](https://github.com/orion-lang/orion): A purely functional LISP inspired programming language.
-- [wavm](https://github.com/Wafelack/wavm): A register based Virtual Machine.
+- [wavm](https://github.com/Wafelack/kernel): A 64 bits kernel.
 - [rdfm](https://github.com/Wafelack/rdfm): A basic dotfiles manager.
 
 Tools that I use:
