@@ -6,7 +6,7 @@ Hi, I'm Wafelack, a french Rust programmer and 10th grade student. I'm enthusias
 
 My projects:
 - [Orion](https://github.com/orion-lang/orion): A purely functional LISP inspired programming language.
-- [wavm](https://github.com/Wafelack/kernel): A 64 bits kernel.
+- [kernel](https://github.com/Wafelack/kernel): A 64 bits kernel.
 - [rdfm](https://github.com/Wafelack/rdfm): A basic dotfiles manager.
 
 Tools that I use:
